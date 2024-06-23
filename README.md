@@ -11,8 +11,8 @@ This repository contains a PyTorch implementation of the Transformer model as de
   - [Feed-Forward Networks](#feed-forward-networks)
   - [Encoder and Decoder Layers](#encoder-and-decoder-layers)
 - [Model Architecture](#model-architecture)
-- Installation(#installation)
-- Usage(#usage)
+- [Installation](#installation)
+- [Usage](#usage)
 
 
 ## Overview
