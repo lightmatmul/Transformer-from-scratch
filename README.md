@@ -1,6 +1,6 @@
 # Transformer from Scratch
 
-This repository contains a PyTorch implementation of the Transformer model as described in the paper "Attention is All You Need" by Vaswani et al. The implementation includes all necessary components such as multi-head attention, positional encoding, and feed-forward networks, allowing users to build and train a Transformer model for various sequence-to-sequence tasks.
+This repository contains a PyTorch implementation of the Transformer model as described in the paper "Attention is All You Need" by Vaswani et al. The implementation includes all necessary components such as multi-head attention, positional encoding, and feed-forward networks, with a sample usage.py to test on a generated random set.
 
 ## Table of Contents
 
