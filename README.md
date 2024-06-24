@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 To use the Transformer model, you can import it in your Python script or Jupyter notebook from the src directory. Here is a basic example of how to initialize and use the model:
 
-```bash
+```python
 from src.transformer import Transformer
 
 # Initialize the Transformer with configuration parameters
