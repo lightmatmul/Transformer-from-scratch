@@ -52,7 +52,7 @@ The model architecture follows the design proposed by Vaswani et al., consisting
 To get started with this project, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-github/transformer-from-scratch.git
+git clone https://github.com/lightmatmul/transformer-from-scratch.git
 cd transformer-from-scratch
 pip install -r requirements.txt
 ```
