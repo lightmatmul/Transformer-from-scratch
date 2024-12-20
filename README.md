@@ -54,7 +54,7 @@ To get started with this project, clone this repository and install the required
 ```bash
 git clone https://github.com/lightmatmul/transformer-from-scratch.git
 cd transformer-from-scratch
-pip install -r requirements.txt
+pip install torch
 ```
 
 ## Usage
